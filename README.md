@@ -15,7 +15,7 @@ docker start -i [CONTAINER ID]
 ```
 
 ## Run test
-```
+```bash
 docker run -it alexandrojp/talana-kombat bash
 
 # Inside container
